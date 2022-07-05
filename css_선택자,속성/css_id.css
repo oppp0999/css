@@ -1,0 +1,5 @@
+<style>
+    #heading { color: teal; text-decoration: line-through; }
+</style>
+...
+<h2 id="heading">이 부분에 스타일을 적용합니다.</h2>
